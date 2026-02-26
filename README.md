@@ -7,7 +7,7 @@ This project demonstrates how Machine Learning (Isolation Forest) can be used to
 ## Architecture Overview
 
 ![AI Pipeline Architecture](image.png)
-
+> End-to-end Azure-inspired anomaly detection workflow using Databricks and Isolation Forest.
 ## Problem
 
 Traditional monitoring relies on static thresholds:
