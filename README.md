@@ -6,7 +6,7 @@ This project demonstrates how Machine Learning (Isolation Forest) can be used to
 
 ## Architecture Overview
 
-![AI Pipeline Architecture](assets/architecture.png)
+![AI Pipeline Architecture](image.png)
 
 ## Problem
 
