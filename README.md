@@ -4,6 +4,10 @@ AI-based anomaly detection for enterprise data pipelines using Isolation Forest 
 
 This project demonstrates how Machine Learning (Isolation Forest) can be used to detect abnormal ingestion patterns in enterprise data engineering pipelines.
 
+## Architecture Overview
+
+![AI Pipeline Architecture](assets/architecture.png)
+
 ## Problem
 
 Traditional monitoring relies on static thresholds:
